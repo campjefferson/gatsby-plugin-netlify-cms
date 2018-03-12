@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-plugin-netlify-cms",
+  "name": "cj-gatsby-plugin-netlify-cms",
   "description":
     "A Gatsby plugin which generates the Netlify CMS single page app",
   "version": "1.0.12",
-  "author": "Shawn Erquhart <shawn@erquh.art>",
+  "author": "Shawn Erquhart <shawn@erquh.art>, Anthony Sapp <anthony.sapp@campjefferson.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
